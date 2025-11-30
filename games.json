@@ -3,5 +3,45 @@
         "name": "City Brawl",
         "slug": "city-brawl",
         "image": "/cache/data/image/game/city-brawl/city-brawl-game--m186x186.webp"
+    },
+    {
+        "name": "Stickman Slash",
+        "slug": "stickman-slash",
+        "image": "/cache/data/image/game/stickman-slash/stickmanslash3-m186x186.webp"
+    },
+    {
+        "name": "Undead Corridor",
+        "slug": "undead-corridor",
+        "image": "/cache/data/image/game/undead-corridor/undead-corridor-m186x186.webp"
+    },
+    {
+        "name": "Dude Theft Auto",
+        "slug": "dude-theft-auto",
+        "image": "/cache/data/image/game/dude-theft-auto/dude-theft-auto-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Hit Stickman",
+        "slug": "ragdoll-hit-stickman",
+        "image": "/cache/data/image/game/ragdoll-hit-stickman/ragdoll-hit-stickman-2-m186x186.webp"
+    },
+    {
+        "name": "Gang Fall Party",
+        "slug": "gang-fall-party",
+        "image": "/cache/data/image/game/gang-fall-party/gang-fall-party-m186x186.webp"
+    },
+    {
+        "name": "City Fighter vs Street Gang",
+        "slug": "city-fighter-vs-street-gang",
+        "image": "/cache/data/image/game/city-fighter-vs-street-gang/city-fighter-vs-street-gang-m186x186.webp"
+    },
+    {
+        "name": "Stickman Fighter: Mega Brawl",
+        "slug": "stickman-fighter-mega-brawl",
+        "image": "/cache/data/image/game/stickman-fighter-mega-brawl/stickman-fighter-mega-brawl-m186x186.webp"
+    },
+    {
+        "name": "Street Fighter 2 Endless",
+        "slug": "street-fighter-2-endless",
+        "image": "/cache/data/image/game/street-fighter-2-endless/street-fighter-2-endless-m186x186.webp"
     }
 ]
